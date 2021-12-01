@@ -10,17 +10,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-body h1 {
-  text-align: center;
-  font-weight: 900;
-  text-decoration: underline;
-}
-
 .box {
-  height: 500px;
-  width: 500px;
+  height: 580px;
+  width: 580px;
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
