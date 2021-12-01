@@ -8,6 +8,10 @@ $waterFColor:#4D6DE3;
 $waterBColor:#C7EEFF;
 
 body {
+  h1 {text-align: center;
+    font-weight: bold;
+  }
+  
   background:$bgColor;
   font: 14px/1 'Open Sans', helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
